@@ -1,0 +1,8 @@
+# Jupyter notebooks for FEMTO-PHM project
+# 01_data_understanding.ipynb - Initial data exploration and inspection
+# 02_eda.ipynb - Exploratory Data Analysis
+# 03_preprocessing.ipynb - Data cleaning and normalization
+# 04_feature_extraction.ipynb - Feature engineering for RUL prediction
+# 05_anomaly_detection.ipynb - Anomaly detection analysis
+# 06_model_training.ipynb - Train predictive models
+# 07_evaluation.ipynb - Model evaluation and results
